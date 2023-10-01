@@ -12,6 +12,7 @@
 - Question 8 : JavaScript Program for QR code Generator.
 - Question 9 : JavaScript Program for Bubble Sort
 - Question 10: JavaScript Program for Recursive Binary Search
+- Question 13: Javascript program for Loops.
 - More Questions to be added soon!
 
 ### Author : Diwakar Kumar
