@@ -1,25 +1,22 @@
-//Javascript program for Inserion Sort
+//Javascript program to find the maximum element in an array of numbers.
 
-function insertionSort(arr) {
-  const length = arr.length;
-
-  for (let i = 1; i < length; i++) {
-    let key = arr[i];
-    let j = i - 1;
-
-    while (j >= 0 && arr[j] > key) {
-      arr[j + 1] = arr[j];
-      j = j - 1;
-    }
-
-    arr[j + 1] = key;
+function findMaxElement(arr) {
+  if (arr.length === 0) {
+    return null; // Return null for an empty array
   }
 
-  return arr;
+  let max = arr[0]; // Initialize max with the first element
+
+  for (let i = 1; i < arr.length; i++) {
+    if (arr[i] > max) {
+      max = arr[i]; // Update max if a greater element is found
+    }
+  }
+
+  return max;
 }
 
 // Example usage
-const arrayToSort = [12, 11, 13, 5, 6];
-console.log('Original array:', arrayToSort);
-const sortedArray = insertionSort(arrayToSort);
-console.log('Sorted array:', sortedArray);
+const numbers = [10, 5, 15, 8, 20];
+const maxNumber = findMaxElement(numbers);
+console.log('The maximum element is:', maxNumber); // Output: 20
