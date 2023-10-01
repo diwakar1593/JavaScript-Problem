@@ -10,7 +10,6 @@
 - Question 6 : JavaScript Program for Insertion Sort
 - Question 7 : JavaScript Program for FizzBuzz.
 - Question 8 : JavaScript Program for QR code Generator.
-- Question 9 : JavaScript Program for FizzBuzz.
 - More Questions to be added soon!
 
 ### Author : Diwakar Kumar
