@@ -11,6 +11,7 @@
 - Question 7 : JavaScript Program for FizzBuzz.
 - Question 8 : JavaScript Program for QR code Generator.
 - Question 9 : JavaScript Program for Bubble Sort
+- Question 10 : JavaScript Program to find the maximum element in an array of numbers.
 - More Questions to be added soon!
 
 ### Author : Diwakar Kumar
