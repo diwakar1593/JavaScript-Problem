@@ -16,6 +16,7 @@
 - Question 12: Javascript program for heap sort
 - Question 13: Javascript program for Loops.
 - Question 17: Javascript program for palindrome.
+- Question 23: Javascript program for armstrong no.
 - More Questions to be added soon!
 
 ### Author : Diwakar Kumar
