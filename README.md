@@ -8,6 +8,7 @@
 - Question 4 : JavaScript Program for QuickSort.
 - Question 5 : JavaScript Program for Removing duplicate entries of elements from an array
 - Question 6 : JavaScript Program for Insertion Sort
+- Question 7 : JavaScript Program for FizzBuzz.
 - More Questions to be added soon!
 
 ### Author : Diwakar Kumar
