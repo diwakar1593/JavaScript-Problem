@@ -14,6 +14,7 @@
 - Question 10: JavaScript Program for Recursive Binary Search
 - Question 11: JavaScript Program for shell sort.
 - Question 12: Javascript program for heap sort
+- Question 17: Javascript program for palindrome.
 - More Questions to be added soon!
 
 ### Author : Diwakar Kumar
