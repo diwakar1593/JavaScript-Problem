@@ -22,6 +22,7 @@
 - Question 18: Jvascript problem for checking leap year.
 - Question 19: Javascript problem for Tower of Hanoi.
 - Question 20: Javascript problem to solve N Queens
+- Question 21: JavaScript Program for Matrix Operations (add, subtract, multiply)
 - More Questions to be added soon!
 
 ### Author : Diwakar Kumar
