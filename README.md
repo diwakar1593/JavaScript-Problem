@@ -19,7 +19,9 @@
 - Question 18: Javascript program for armstrong no.
 - Question 19: Javascript program for Automorphic Number.
 - Question 20: Javascript problem for Integer to Roman Numbers and vice-versa.
-- Question 24: Javascript problem for Tower of Hanoi.
+- Question 21: Javascript problem for Tower of Hanoi.
+- Question 22: Javascript problem to solve N Queens
+
 - More Questions to be added soon!
 
 ### Author : Diwakar Kumar
