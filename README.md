@@ -15,13 +15,13 @@
 - Question 11: JavaScript Program for shell sort.
 - Question 12: Javascript program for heap sort
 - Question 13: Javascript program for Loops.
-- Question 17: Javascript program for palindrome.
-- Question 18: Javascript program for armstrong no.
-- Question 19: Javascript program for Automorphic Number.
-- Question 20: Javascript problem for Integer to Roman Numbers and vice-versa.
-- Question 21: Jvascript problem for checking leap year.
-- Question 21: Javascript problem for Tower of Hanoi.
-- Question 22: Javascript problem to solve N Queens
+- Question 14: Javascript program for palindrome.
+- Question 15: Javascript program for armstrong no.
+- Question 16: Javascript program for Automorphic Number.
+- Question 17: Javascript problem for Integer to Roman Numbers and vice-versa.
+- Question 18: Jvascript problem for checking leap year.
+- Question 19: Javascript problem for Tower of Hanoi.
+- Question 20: Javascript problem to solve N Queens
 - More Questions to be added soon!
 
 ### Author : Diwakar Kumar
