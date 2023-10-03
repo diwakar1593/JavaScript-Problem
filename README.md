@@ -26,6 +26,7 @@
 - Question 22: JavaScript program for vowel count.
 - Question 23: JavaScript program to check for prime number.
 - Question 24: JavaScript program to reverse a string.
+- Question 25: JavaScript Program for Duck Number.
 - More Questions to be added soon!
 
 ### Author : Diwakar Kumar
