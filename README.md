@@ -23,6 +23,9 @@
 - Question 19: Javascript problem for Tower of Hanoi.
 - Question 20: Javascript problem to solve N Queens
 - Question 21: JavaScript Program for Matrix Operations (add, subtract, multiply)
+- Question 22: JavaScript program for vowel count.
+- Question 23: JavaScript program to check for prime number.
+- Question 24: JavaScript program to reverse a string.
 - More Questions to be added soon!
 
 ### Author : Diwakar Kumar
