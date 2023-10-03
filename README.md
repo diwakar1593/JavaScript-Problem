@@ -27,6 +27,7 @@
 - Question 23: JavaScript program to check for prime number.
 - Question 24: JavaScript program to reverse a string.
 - Question 25: JavaScript Program for Duck Number.
+- Question 26: JavaScript Program to Roate the Array.
 - More Questions to be added soon!
 
 ### Author : Diwakar Kumar
