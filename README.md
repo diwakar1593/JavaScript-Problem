@@ -28,6 +28,7 @@
 - Question 24: JavaScript program to reverse a string.
 - Question 25: JavaScript Program for Duck Number.
 - Question 26: JavaScript Program to Roate the Array.
+- Question 32: JavaScript Program to Solve rat in a Maze
 - More Questions to be added soon!
 
 ### Author : Diwakar Kumar
