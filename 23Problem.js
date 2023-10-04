@@ -22,8 +22,6 @@ if (sum == number) {
 else {
     console.log(`${number} is not an Armstrong number.`);
 }
-<script>
-
 // Javascript program to check if
 // a number is Automorphic
 	
@@ -60,5 +58,3 @@ let geeks = isAutomorphic(N) ?
 			"Automorphic" :
 		"Not Automorphic";
 	document.write(geeks);
-	
-</script>

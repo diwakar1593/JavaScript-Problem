@@ -16,8 +16,8 @@ function intToRoman(num) {
   return result;
 }
 
-const number = 3549;
-const romanNumeral = intToRoman(number);
+let number = 3549;
+let romanNumeral = intToRoman(number);
 console.log(`${number} in Roman numerals is ${romanNumeral}`);
 
 function romanToInt(roman) {
@@ -48,7 +48,7 @@ function romanToInt(roman) {
   return result;
 }
 
-const romanNumeral = "MMMCXLIX";
-const number = romanToInt(romanNumeral);
+romanNumeral = "MMMCXLIX";
+number = romanToInt(romanNumeral);
 console.log(`${romanNumeral} in decimal is ${number}`);
 

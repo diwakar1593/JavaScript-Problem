@@ -1,4 +1,3 @@
-<script>
 let recursiveFunction = function (arr, x, start, end) {
 	
 	// Base Condition
@@ -33,5 +32,4 @@ x = 6;
 
 if (recursiveFunction(arr, x, 0, arr.length-1))
 	document.write("Element found!<br>");
-else document.write("Element not found!<br>");
-</script>									
+else document.write("Element not found!<br>");								

@@ -1,34 +1,37 @@
 # JavaScript Programs
+A collection of algorithms and programming problems written in JavaScript.
 
 ## Problems
+- Program 1: Merge Sort
+- Program 2: Prime Number Checker
+- Program 3: Celsius to Fahrenheit Converter
+- Program 4: Quicksort
+- Program 5: Fizz Buzz
+- Program 6: Binary Search
+- Program 7: Factorials
+- Program 8: QR Code Generator
+- Program 9: Bubble Sort
+- Program 10: Max Number in Array
+- Program 11: Shell Sort
+- Program 12: Heap Sort
+- Program 13: Max of Two Numbers
+- Program 14: Leap Year Checker
+- Program 15: Gnome Sort
+- Program 16: Linked Lists
+- Program 17: Palindrome Checker
+- Program 18: Vowel Counter
+- Program 19: Max Number in Nested Array
+- Program 20: Roman Numeral to Number (and vice versa)
+- Program 21: Matrix Operations
+- Program 22: Selection Sort
+- Program 23: Armstrong Number
+- Program 24: Tower of Hanoi
+- Program 25: Rotate Array
+- Program 26: Prime Number Checker 2
+- Program 27: Caesar Cipher
+- Program 28: Recursive Binary Search
+- Program 29: N Queens
+- Program 30: Reverse String
+- Program 31: Duck Number
 
-- Question 1 : JavaScript Program for MergeSort.
-- Question 2 : Javascript Program for Binarysearch.
-- Question 3 : Javascript Program to Convert Celsius to Fahrenheit
-- Question 4 : JavaScript Program for QuickSort.
-- Question 5 : JavaScript Program for Removing duplicate entries of elements from an array
-- Question 6 : JavaScript Program for Insertion Sort
-- Question 7 : JavaScript Program for FizzBuzz.
-- Question 8 : JavaScript Program for QR code Generator.
-- Question 9 : JavaScript Program for Bubble Sort
-- Question 10: JavaScript Program for Recursive Binary Search
-- Question 11: JavaScript Program for shell sort.
-- Question 12: Javascript program for heap sort
-- Question 13: Javascript program for Loops.
-- Question 14: Javascript program for palindrome.
-- Question 15: Javascript program for armstrong no.
-- Question 16: Javascript program for Automorphic Number.
-- Question 17: Javascript problem for Integer to Roman Numbers and vice-versa.
-- Question 18: Jvascript problem for checking leap year.
-- Question 19: Javascript problem for Tower of Hanoi.
-- Question 20: Javascript problem to solve N Queens
-- Question 21: JavaScript Program for Matrix Operations (add, subtract, multiply)
-- Question 22: JavaScript program for vowel count.
-- Question 23: JavaScript program to check for prime number.
-- Question 24: JavaScript program to reverse a string.
-- Question 25: JavaScript Program for Duck Number.
-- Question 26: JavaScript Program to Roate the Array.
-- Question 27: JavaScript Program to Encode a String with a Caesar Cipher
-- More Questions to be added soon!
-
-### Author : Diwakar Kumar
+### Author: Diwakar Kumar

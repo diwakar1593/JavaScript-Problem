@@ -1,34 +1,18 @@
-/* 
-
-Problem 5: FizzBuzz
-
-Write a function that prints numbers from 1 to n, but for multiples of 3, print "Fizz" instead of the number, and for multiples of 5, print "Buzz." For numbers which are multiples of both 3 and 5, print "FizzBuzz."
-
-*/
-
-function fizzBuzz(n) {
-    for (let i = 1; i <= n; i++) {
-      if (i % 3 === 0 && i % 5 === 0) {
-        console.log('FizzBuzz');
-      } else if (i % 3 === 0) {
-        console.log('Fizz');
-      } else if (i % 5 === 0) {
-        console.log('Buzz');
-      } else {
-        console.log(i);
-      }
-    }
+function factorial(n){
+  let answer = 1;
+  if (n == 0 || n == 1){
+    return answer;
   }
-  
-  fizzBuzz(15);
-  
-// remove duplicates from an array
-
-let arr = ["apple", "mango", "apple",
-          "orange", "mango", "mango"];
-  
-function removeDuplicates(arr) {
-    return arr.filter((item,
-        index) => arr.indexOf(item) === index);
+  else if(n > 1){
+    for(var i = n; i >= 1; i--){
+      answer = answer * i;
+    }
+    return answer;
+  }
+  else{
+    return "number has to be positive."
+  }  
 }
-console.log(removeDuplicates(arr));
+let n = 4;
+answer = factorial(n)
+console.log("Factorial of " + n + " : " + answer);
