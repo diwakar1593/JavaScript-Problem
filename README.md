@@ -28,6 +28,8 @@
 - Question 24: JavaScript program to reverse a string.
 - Question 25: JavaScript Program for Duck Number.
 - Question 26: JavaScript Program to Roate the Array.
+- Question 27: JavaScript Program to Find Upper and Lower Bound of an array.
+
 - More Questions to be added soon!
 
 ### Author : Diwakar Kumar
