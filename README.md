@@ -29,6 +29,12 @@
 - Question 25: JavaScript Program for Duck Number.
 - Question 26: JavaScript Program to Roate the Array.
 - Question 27: JavaScript Program to Find Upper and Lower Bound of an array.
+- Question 28: JavaScript Write a JavaScript program that allows two players to play the game of Rock, Paper, Scissors. The game should have the following rules:
+
+  1. Each player can choose one of the following options: "rock," "paper," or "scissors."
+  2. The game should continue for a specified number of rounds.
+  3. After each round, the program should display the choices made by each player and the result of that round (win, lose, or tie).
+  4. Keep track of the score for each player, displaying it at the end of the game.
 
 - More Questions to be added soon!
 
