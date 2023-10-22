@@ -28,7 +28,11 @@
 - Question 24: JavaScript program to reverse a string.
 - Question 25: JavaScript Program for Duck Number.
 - Question 26: JavaScript Program to Roate the Array.
-- Question 32: JavaScript Program to Solve rat in a Maze
+- Question 27: JavaScript Program to Solve rat in a Maze
+- Question 28: JavaScript Program to Find Upper and Lower Bound of an array.
+- Question 29: JavaScript Write a JavaScript program that allows two players to play the game of Rock, Paper, Scissors.
+
+
 - More Questions to be added soon!
 
 ### Author : Diwakar Kumar
