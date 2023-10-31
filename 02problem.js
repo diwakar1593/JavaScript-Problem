@@ -5,7 +5,8 @@ if (number === 1) {
     console.log("1 is neither prime nor composite number.");
 }
 else if (number > 1) {
-    for (let i = 2; i < number; i++) {
+    if(number % 2 == 0) isPrime=false;
+    for (let i = 3; i < Math.ceil(number/2); i+=2) {
         if (number % i == 0) {
             isPrime = false;
             break;
